@@ -1,1 +1,2 @@
 1 audiotest1.thor
+2 audiotest2.grf
