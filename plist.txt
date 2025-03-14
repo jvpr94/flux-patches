@@ -3,3 +3,4 @@
 3 internalv200p3.thor
 4 internalv200p4.thor
 5 internalv200p5.thor
+6 internalv200p6.thor
