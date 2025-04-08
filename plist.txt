@@ -5,3 +5,4 @@
 5 internalv200p5.thor
 6 internalv200p6.thor
 7 internalv200p7.thor
+8 internalv200p8.thor
