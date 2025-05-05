@@ -7,3 +7,5 @@
 7 internalv200p7.thor
 8 internalv200p8.thor
 9 internalv200p9.thor
+10 internalv200p10.thor
+11 internalv200p11.thor
